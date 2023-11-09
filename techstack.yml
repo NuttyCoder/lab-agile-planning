@@ -1,0 +1,18 @@
+repo_name: NuttyCoder/lab-agile-planning
+report_id: f7d25cb5e0431eb81d56a50cd880bdff
+repo_type: Public
+timestamp: '2023-11-09T20:11:42+00:00'
+requested_by: NuttyCoder
+provider: github
+branch: main
+detected_tools_count: 1
+tools:
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source: Repo Metadata
